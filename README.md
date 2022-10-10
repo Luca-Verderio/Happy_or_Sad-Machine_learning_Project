@@ -17,7 +17,7 @@ The model is comprised of a sequential group of layers, as follows:
 
 ## Data
 The original data set is the following:  
--	[Happy-or-Sad Data Set](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/happy-or-sad.zipt)
+-	[Happy-or-Sad Data Set](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/happy-or-sad.zip)
 
 ## Tools
 Programming language: **Python**  
